@@ -8,19 +8,7 @@ import 'home_screen.dart';
 import 'register_screen.dart';
 import 'splash_screen.dart';
 
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(
-    options: const FirebaseOptions(
-      apiKey: "AIzaSyDvIMBji4zlxC6JwZgMWCQC9IMfTJsz0Gw",
-      authDomain: "final-project-863a1.firebaseapp.com",
-      projectId: "final-project-863a1",
-      storageBucket: "final-project-863a1.firebasestorage.app",
-      messagingSenderId: "850242780596",
-      appId: "1:850242780596:web:de56bc46eeeea39fe346e1",
-      measurementId: "G-ND7Q74WTXF",
-    ),
-  );
+
   runApp(const MediCareApp());
 }
 
@@ -48,4 +36,5 @@ class MediCareApp extends StatelessWidget {
       ),
     );
   }
+
 }
