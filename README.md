@@ -264,9 +264,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+
+- Email: ritikrana2804@gmail.com
 
 ---
 
@@ -282,17 +281,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support, questions, or feedback:
-- Email: your.email@example.com
 - Open an issue in the repository
 - Join our community discussions
 
 ---
 
-## 📸 Screenshots
 
-_Add screenshots of your app here to showcase the UI and features_
-
----
 
 ## ⭐ Show Your Support
 
